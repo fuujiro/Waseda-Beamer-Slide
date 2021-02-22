@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{课题背景}{3}{0}{1}
+\beamer@sectionintoc {2}{研究现状}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Beamer主题分类}{8}{0}{2}
+\beamer@sectionintoc {3}{研究内容}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{美化主题}{11}{0}{3}
+\beamer@subsectionintoc {3}{2}{如何更好地做Beamer}{12}{0}{3}
+\beamer@sectionintoc {4}{计划进度}{23}{0}{4}
+\beamer@sectionintoc {5}{参考文献}{25}{0}{5}
